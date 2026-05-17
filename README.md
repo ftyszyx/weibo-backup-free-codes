@@ -30,6 +30,8 @@
 
 ## 截图
 
+![创建微博备份任务](https://weibocloner.bytefuse.cn/images/weibo/home.png)
+
 ![创建微博备份任务](https://weibocloner.bytefuse.cn/images/weibo/create-task.png)
 
 ![微博备份任务列表](https://weibocloner.bytefuse.cn/images/weibo/tasks.png)
