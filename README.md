@@ -28,8 +28,8 @@
 - 任务管理
 - 备份历史记录查看
 
-## 截图
-https://weibocloner.bytefuse.cn/images/weibo/home.png
+## 截图 
+
 ![创建微博备份任务](https://weibocloner.bytefuse.cn/images/weibo/home.png)
 
 ![创建微博备份任务](https://weibocloner.bytefuse.cn/images/weibo/create-task.png)
