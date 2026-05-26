@@ -34,9 +34,9 @@
 
 ## 截图 
 
-![微博备份任务完成状态](https://weibocloner.bytefuse.cn/images/weibo/live/app-window.png)
+![微博备份任务完成状态](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/live/app-window.png)
 
-![微博备份本地 HTML 导出结果](https://weibocloner.bytefuse.cn/images/weibo/live/backup-result-list.png)
+![微博备份本地 HTML 导出结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/live/backup-result-list.png)
 
 ## 推荐使用流程
 
