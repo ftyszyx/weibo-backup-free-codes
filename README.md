@@ -1,4 +1,4 @@
-# 微博克隆器：微博备份 / 微博导出 / Weibo Backup
+# 微博克隆器：微博备份 / 微博导出 / 微博评论备份 / Weibo Backup
 
 > 一个面向个人微博内容归档的 Windows 桌面工具。支持把自己的微博正文、图片、视频、评论、回复、转发内容备份到本地，并导出为可离线查看的 HTML 页面。
 
@@ -8,7 +8,7 @@
 
 ## 这是什么
 
-微博克隆器是一款微博备份工具，适合需要保存个人微博历史内容的用户使用。它不是通用爬虫框架，定位是个人数据备份、个人内容归档、微博内容导出和本地资料沉淀。
+微博克隆器是一款微博备份工具，适合需要保存个人微博历史内容的用户使用。它不是通用爬虫框架，定位是个人数据备份、个人内容归档、微博内容导出、微博评论备份和本地资料沉淀。
 
 任务完成后会生成本地 HTML 页面和资源文件。正文、转发来源、图片和发布时间可以在本地离线打开查看，后续整理素材、账号迁移或复盘历史内容时更方便。
 
@@ -32,11 +32,24 @@
 - 备份历史记录查看
 - 本地 HTML 导出
 
+## 适合搜索这些需求的人
+
+- 如何备份自己的微博到本地
+- 如何导出微博内容为 HTML
+- 如何保存微博评论和楼中楼回复
+- 如何把微博图片、视频、正文一起归档
+- 微博账号迁移前如何保存历史内容
+- 自媒体历史素材如何离线留档
+
 ## 截图 
 
 ![微博备份任务完成状态](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/live/app-window.png)
 
 ![微博备份本地 HTML 导出结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/live/backup-result-list.png)
+
+![微博评论列表备份结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/comments-list.png)
+
+![微博评论展开后的回复备份结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/comments-expanded.png)
 
 ## 推荐使用流程
 
@@ -75,7 +88,7 @@
 
 ## 搜索关键词
 
-微博备份、微博导出、微博归档、微博克隆、微博图片备份、微博视频备份、微博评论备份、微博转发备份、微博 HTML 导出、个人微博备份、Weibo backup、Weibo archive、Weibo export、Weibo downloader、Weibo Cloner。
+微博备份、微博导出、微博归档、微博克隆、微博图片备份、微博视频备份、微博评论备份、微博回复备份、微博转发备份、微博 HTML 导出、个人微博备份、微博本地备份、微博离线查看、Weibo backup、Weibo archive、Weibo export、Weibo downloader、Weibo comments backup、Weibo HTML export、Weibo Cloner。
 
 ## 使用建议
 
