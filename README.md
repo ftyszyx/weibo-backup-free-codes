@@ -1,63 +1,59 @@
-# 微博克隆器：微博备份 / 微博导出 / 微博评论备份 / Weibo Backup
+# WeiboVault 免费激活码：微博备份 / 微博导出 / 评论转发备份
 
-> 一个面向个人微博内容归档的 Windows 桌面工具。支持把自己的微博正文、图片、视频、评论、回复、转发内容备份到本地，并导出为可离线查看的 HTML 页面。
+![WeiboVault 微博备份工具封面](assets/weibovault-cover.png)
 
-官网与下载：[https://weibocloner.bytefuse.cn/](https://weibocloner.bytefuse.cn/)
+> WeiboVault 是一款面向个人微博内容归档的桌面备份工具。支持把微博正文、图片、视频、评论、回复、转发列表保存到本地，并导出为可离线查看的 HTML 或 PDF 文件。
+
+官网与下载：[https://weibovault.bytefuse.cn/](https://weibovault.bytefuse.cn/)
 
 购买/激活：[https://apps.bytefuse.cn/products/1](https://apps.bytefuse.cn/products/1)
 
+GitHub 项目：[https://github.com/ftyszyx/WeiboVault](https://github.com/ftyszyx/WeiboVault)
+
 ## 这是什么
 
-微博克隆器是一款微博备份工具，适合需要保存个人微博历史内容的用户使用。它不是通用爬虫框架，定位是个人数据备份、个人内容归档、微博内容导出、微博评论备份和本地资料沉淀。
+这个仓库用于发放 WeiboVault 免费激活码，并帮助需要“微博备份”“微博导出”“微博评论备份”“微博图片视频备份”的用户找到工具。
 
-任务完成后会生成本地 HTML 页面和资源文件。正文、转发来源、图片和发布时间可以在本地离线打开查看，后续整理素材、账号迁移或复盘历史内容时更方便。
+WeiboVault 不是通用爬虫框架，它更适合个人内容归档、账号迁移前备份、微博素材整理和离线留存。备份数据保存在本机，支持任务中断后继续执行，完成后可以在本地浏览，也可以导出为 HTML 或 PDF。
 
-常见使用场景：
+## 核心功能
 
-- 账号迁移、停用或清理前，先保存个人微博历史资料
-- 自媒体运营者整理过往图文、评论和转发素材
-- 长期使用微博后，把分散在平台里的内容做本地归档
-- 希望给重要微博内容、图片、视频留一份本地副本
-- 希望微博备份结果可以离线打开，而不是只能停留在软件里
+- 备份自己的微博正文、发布时间和互动数据
+- 备份其他可访问账号的公开微博内容
+- 保存微博图片和视频到本地
+- 备份评论、楼中楼回复和转发列表
+- 支持任务暂停、失败后继续、断点续跑
+- 支持本地浏览备份记录
+- 支持导出离线 HTML 和 PDF 文件
+- 支持 Windows 和 macOS 桌面客户端
 
-## 主要功能
-
-- 微博正文备份
-- 微博图片保存
-- 微博视频保存
-- 评论备份
-- 回复备份
-- 转发内容保存
-- 任务管理
-- 备份历史记录查看
-- 本地 HTML 导出
-
-## 适合搜索这些需求的人
+## 适合这些需求
 
 - 如何备份自己的微博到本地
-- 如何导出微博内容为 HTML
-- 如何保存微博评论和楼中楼回复
-- 如何把微博图片、视频、正文一起归档
+- 如何导出微博内容、图片、视频
+- 如何保存微博评论、回复和转发
 - 微博账号迁移前如何保存历史内容
-- 自媒体历史素材如何离线留档
+- 自媒体如何整理过去发布过的微博素材
+- 如何把微博内容导出为 HTML 或 PDF 离线查看
+- Weibo backup / Weibo archive / Weibo export
 
-## 截图 
+## 软件截图
 
-![微博备份任务完成状态](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/live/app-window.png)
+![WeiboVault 淘宝主图](assets/weibovault-cover-taobao-1x1.png)
 
-![微博备份本地 HTML 导出结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/live/backup-result-list.png)
+![WeiboVault 桌面端备份浏览](assets/main2.png)
 
-![微博评论列表备份结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/comments-list.png)
+![WeiboVault 导出设置](assets/export.png)
 
-![微博评论展开后的回复备份结果](https://raw.githubusercontent.com/ftyszyx/weibocloner_web/main/public/images/weibo/comments-expanded.png)
+![WeiboVault 评论导出效果](assets/export_result_1_comment.png)
 
 ## 推荐使用流程
 
-1. 下载 Windows 客户端。
-2. 先创建一个小范围任务，确认保存内容和导出格式。
-3. 查看任务进度、保存条数和完成状态。
-4. 打开本地 HTML 结果，确认正文、图片、转发来源和时间是否符合预期。
-5. 确认可用后，再扩大备份范围或购买激活码长期使用。
+1. 打开官网下载安装 WeiboVault 桌面客户端。
+2. 使用微博账号登录，先创建一个小范围备份任务。
+3. 按需要选择图片、视频、评论、回复、转发等备份范围。
+4. 查看任务进度，确认可以暂停和继续。
+5. 完成后在本地浏览备份记录，或导出 HTML / PDF 文件。
 
 ## 免费激活码
 
@@ -88,7 +84,7 @@
 
 ## 搜索关键词
 
-微博备份、微博导出、微博归档、微博克隆、微博图片备份、微博视频备份、微博评论备份、微博回复备份、微博转发备份、微博 HTML 导出、个人微博备份、微博本地备份、微博离线查看、Weibo backup、Weibo archive、Weibo export、Weibo downloader、Weibo comments backup、Weibo HTML export、Weibo Cloner。
+微博备份、微博导出、微博归档、微博克隆、微博图片备份、微博视频备份、微博评论备份、微博回复备份、微博转发备份、微博 HTML 导出、微博 PDF 导出、微博本地备份、微博离线查看、个人微博备份、WeiboVault、Weibo backup、Weibo archive、Weibo export、Weibo downloader、Weibo comments backup、Weibo repost backup、Weibo HTML export。
 
 ## 使用建议
 
@@ -96,6 +92,6 @@
 
 ## English
 
-Weibo Cloner is a Windows desktop tool for personal Weibo backup and local archiving. It helps users save their own Weibo posts, images, videos, comments, replies, reposts, task history, and backup records locally. Backup results can be exported as local HTML pages for offline browsing.
+WeiboVault is a desktop tool for personal Weibo backup and local archiving. It helps users save Weibo posts, images, videos, comments, replies, repost lists, and backup records locally. Archives can be browsed on the desktop app and exported as offline HTML or PDF files.
 
-Official website: [https://weibocloner.bytefuse.cn/](https://weibocloner.bytefuse.cn/)
+Official website: [https://weibovault.bytefuse.cn/](https://weibovault.bytefuse.cn/)
