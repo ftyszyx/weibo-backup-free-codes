@@ -8,8 +8,6 @@
 
 购买/激活：[https://apps.bytefuse.cn/products/1](https://apps.bytefuse.cn/products/1)
 
-GitHub 项目：[https://github.com/ftyszyx/WeiboVault](https://github.com/ftyszyx/WeiboVault)
-
 ## 这是什么
 
 这个仓库用于发放 WeiboVault 免费激活码，并帮助需要“微博备份”“微博导出”“微博评论备份”“微博图片视频备份”的用户找到工具。
