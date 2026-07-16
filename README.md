@@ -1,6 +1,6 @@
 # WeiboVault ：微博备份 / 微博导出 / 评论转发备份
 
-![WeiboVault 微博备份工具封面](assets/weibovault-cover.png)
+![WeiboVault 主图](assets/weibovault-cover-taobao-1x1.png)
 
 > WeiboVault 是一款面向个人微博内容归档的桌面备份工具。支持把微博正文、图片、视频、评论、回复、转发列表保存到本地，并导出为可离线查看的 HTML 或 PDF 文件。
 
@@ -32,8 +32,6 @@ WeiboVault 不是通用爬虫框架，它更适合个人内容归档、账号迁
 - Weibo backup / Weibo archive / Weibo export
 
 ## 软件截图
-
-![WeiboVault 淘宝主图](assets/weibovault-cover-taobao-1x1.png)
 
 ![WeiboVault 桌面端备份浏览](assets/main2.png)
 
