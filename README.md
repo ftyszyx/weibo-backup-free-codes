@@ -1,4 +1,4 @@
-# WeiboVault 免费激活码：微博备份 / 微博导出 / 评论转发备份
+# WeiboVault ：微博备份 / 微博导出 / 评论转发备份
 
 ![WeiboVault 微博备份工具封面](assets/weibovault-cover.png)
 
@@ -6,11 +6,7 @@
 
 官网与下载：[https://weibovault.bytefuse.cn/](https://weibovault.bytefuse.cn/)
 
-购买/激活：[https://apps.bytefuse.cn/products/1](https://apps.bytefuse.cn/products/1)
-
 ## 这是什么
-
-这个仓库用于发放 WeiboVault 免费激活码，并帮助需要“微博备份”“微博导出”“微博评论备份”“微博图片视频备份”的用户找到工具。
 
 WeiboVault 不是通用爬虫框架，它更适合个人内容归档、账号迁移前备份、微博素材整理和离线留存。备份数据保存在本机，支持任务中断后继续执行，完成后可以在本地浏览，也可以导出为 HTML 或 PDF。
 
@@ -53,40 +49,10 @@ WeiboVault 不是通用爬虫框架，它更适合个人内容归档、账号迁
 4. 查看任务进度，确认可以暂停和继续。
 5. 完成后在本地浏览备份记录，或导出 HTML / PDF 文件。
 
-## 免费激活码
-
-下面是免费激活码，先到先得。如果显示已被使用，说明已经被其他用户领取。
-
-| 序号 | 激活码 |
-| --- | --- |
-| 1 | `9914DA5QNUA6RI6VUF73` |
-| 2 | `CE6LH53NALZYYHWKF9U0` |
-| 3 | `3B7MYTO2Q145KUPI462Z` |
-| 4 | `AGTIAJF8CHXRDMDXG45Q` |
-| 5 | `SFZPCHMJJEF06AHXCECZ` |
-| 6 | `KXA38IEWCON002H8M70N` |
-| 7 | `R4UUKH2J44Q1Z1E534F4` |
-| 8 | `U85U3WMCIEF8P46IKDYT` |
-| 9 | `RLVYF5W84BQALU2Q1YPK` |
-| 10 | `PJ1HED0AOCQCXWLKL142` |
-| 11 | `7V0CODFW868DI1AEDQ7Y` |
-| 12 | `SAUKEJUU2DKIA4QCS3Q0` |
-| 13 | `8QPJDOKCLYXBVW3NYYUG` |
-| 14 | `IA3E4D8FXRWCAV9P27AV` |
-| 15 | `PM8SP8TB6SBDVNO2G0H6` |
-| 16 | `R201656R0J7JNRSYJY0P` |
-| 17 | `0SUTKYT91596E4M5CBJI` |
-| 18 | `V0KLDA0YW2AXQH8UR3EU` |
-| 19 | `2F2WV16NZGOST9R48IV0` |
-| 20 | `TD1HYKBP0KDIC4YX9JNB` |
-
 ## 搜索关键词
 
 微博备份、微博导出、微博归档、微博克隆、微博图片备份、微博视频备份、微博评论备份、微博回复备份、微博转发备份、微博 HTML 导出、微博 PDF 导出、微博本地备份、微博离线查看、个人微博备份、WeiboVault、Weibo backup、Weibo archive、Weibo export、Weibo downloader、Weibo comments backup、Weibo repost backup、Weibo HTML export。
 
-## 使用建议
-
-建议先用小范围任务测试备份效果，再进行长期或大批量备份。请只备份自己有权保存的内容，并遵守微博平台规则和当地法律法规。
 
 ## English
 
